@@ -1,6 +1,6 @@
 👋 Hi there, I’m Shabab Sirajum
 
-🎓 I'm  currently studying in Department of CSE 
+🎓 I am currently a student in the Department of CSE
 
 💻 I love exploring the world of programming and software development
 
